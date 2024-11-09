@@ -10,3 +10,5 @@ LangChain: For handling language model prompts and generating structured email c
 Ollama Model: Used to ensure high-quality, professional language in each generated email.
 Use Case
 The app is ideal for tech consultancies looking to efficiently reach out to potential clients, providing hiring managers with relevant information on past projects and areas of expertise that align with the job roles.
+![cold_email](https://github.com/user-attachments/assets/1a0436dd-8907-4cfa-b5d6-0e8a1e27a497)
+
